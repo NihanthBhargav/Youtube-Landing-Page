@@ -11,6 +11,9 @@ This project replicates YouTube’s layout including the navigation bar, search,
 - Organized CSS for easy maintenance  
 
 ---
+## 🚀 Live Demo  
+🔗 [View the Project Here](https://nihanthbhargav.github.io/Youtube-Landing-Page/) 
+---
 
 ## 🛠 Technologies Used  
 - **HTML5** – Page structure  
