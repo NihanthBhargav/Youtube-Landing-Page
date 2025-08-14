@@ -20,15 +20,15 @@ This project replicates YouTube’s layout including the navigation bar, search,
 
 ## 📂 Folder Structure  
 📁 Youtube-Landing-Page/
-├── 📁 channels/ # Channel images/logos
-├── 📁 icons/ # SVG icons
-├── 📁 thumbnails/ # Video thumbnail images
-├── general.css # General styling
-├── header.css # Header & navigation styles
-├── sidebar.css # Sidebar menu styles
-├── video.css # Video grid styles
-├── youtube.html # Main HTML file
-└── README.md # Project documentation
+- ├── 📁 channels/ # Channel images/logos
+- ├── 📁 icons/ # SVG icons
+- ├── 📁 thumbnails/ # Video thumbnail images
+- ├── general.css # General styling
+- ├── header.css # Header & navigation styles
+- ├── sidebar.css # Sidebar menu styles
+- ├── video.css # Video grid styles
+- ├── youtube.html # Main HTML file
+- └── README.md # Project documentation
 
 
 ---
